@@ -45,13 +45,7 @@ pip install -r requirements.txt
 
 ### Using Synthetic Data
 
-```python
-from dimension_reduction.main import main
-
-# Run analysis with synthetic data
-if __name__ == "__main__":
-    main()
-```
+python dimension_reduction/main.py
 
 ### Using Your Own Dataset
 
