@@ -36,8 +36,7 @@ This package provides a comprehensive solution for automated dimension reduction
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dimension_reduction.git
-
+git clone https://github.com/sanjivjha/DimReductX.git
 # Install required packages
 pip install -r requirements.txt
 ```
